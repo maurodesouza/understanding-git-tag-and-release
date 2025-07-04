@@ -1,1 +1,1 @@
-console.log("M<y feature X")
+console.log("My feature X")
