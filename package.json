@@ -1,6 +1,6 @@
 {
   "name": "understanding-git-tag-and-release",
-  "version": "1.2.1-beta.0",
+  "version": "1.2.1",
   "main": "index.js",
   "license": "MIT"
 }
